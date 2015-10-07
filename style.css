@@ -1,0 +1,8 @@
+.box {
+  boreder: 2px solid black;
+  width:200px
+  backgroudn-color:red;
+position: relative:absolute; top:100px;
+clear: both;
+
+}
